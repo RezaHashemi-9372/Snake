@@ -1,11 +1,10 @@
 # Snake
-which surround enemy to kill it
+which surround enemy to kill it.
 
 
 
 
 
 
-https://user-images.githubusercontent.com/58488186/152203944-0af52fb7-bdc5-461d-8c7c-3d435f049f2f.mp4
-
+https://user-images.githubusercontent.com/58488186/152306687-f900416c-1f23-4c09-b6f7-9037861911fb.mp4
 
