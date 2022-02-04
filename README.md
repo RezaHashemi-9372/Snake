@@ -2,7 +2,8 @@
 #### which surround enemy to kill it.
 <br/> ** test Bolf Font **
 * Italic font *
-~~ Line on the sentences ~~
+~~ Line on the sentences ~~ <br/>
+_Italic after_
 ** Bold and _Italic it_ **
 
 
