@@ -1,12 +1,5 @@
 # Snake
-#### which surround enemy to kill it.<br/>
-****test Bold Font****<br/>
-*Italic font*<br/>
-~~Line on the sentences~~ <br/>
-_Italic after_<br/>
-**Bold and _Italic it_**<br/>
-
-
+### which surround enemy to _kill_ it.<br/>
 
 
 
