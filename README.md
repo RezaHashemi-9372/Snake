@@ -1,6 +1,6 @@
 # Snake
 #### which surround enemy to kill it.
-<br/> ** test Bolf Font **
+<br/> **** test Bold Font ****
 * Italic font *
 ~~ Line on the sentences ~~ <br/>
 _Italic after_
