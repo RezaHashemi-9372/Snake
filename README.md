@@ -4,7 +4,7 @@
 * Italic font *
 ~~ Line on the sentences ~~ <br/>
 _Italic after_
-** Bold and _Italic it_ **
+**Bold and _Italic it_**
 
 
 
